@@ -106,7 +106,7 @@ if enterdorks=="":
 	docs.dorkgen.dorker(dorkfilename,amount,chooser,word)
 	enterdorks="Dorks"+dorkfilename
 	
-filename=time.strftime("%d/%m/%Y").replace("/","_")+"_"+str(time.time().replace(".","_"))
+filename=time.strftime("%d/%m/%Y").replace("/","_")+"_"+str(time.time()).replace(".","_")
 
 with open(filename,mode="w+")as typer:
     typer.write("")
