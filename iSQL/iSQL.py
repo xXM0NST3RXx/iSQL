@@ -102,6 +102,8 @@ if enterdorks=="":
 	if chooser == "y" or chooser == "Y":
 		print(colored("Enter KeyWord","blue"))
 		word=input("iSQL@root:~$ ")
+	else:
+		word="n"
 		
 	docs.dorkgen.dorker(dorkfilename,amount,chooser,word)
 	enterdorks="Dorks"+dorkfilename
