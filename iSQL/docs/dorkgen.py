@@ -48,3 +48,5 @@ def dorker(now,amount,chooser,word):
 
     else :
         print(colored(" [Search Started] ","cyan").center(70,"-"))
+        with open("Dorks"+str(now),mode="a")as f:
+            f.write(" ")
