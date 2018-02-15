@@ -18,8 +18,7 @@ grab dorks from CXSecurity and add them into dorks file also you can generate mo
 
 # ORG-ZERO
 salutes to --Special-- members of org zero:
-Pain / Teto / Elsafa7-110
-
+Pain / Teto / Elsafa7-110 / MrMax
 # Hall Of Fame
 <Special thanks to my friend (Eslam Kamal "Striker Hacker") For learning me all i Know ="You made my life amazing">
 Thanks to (Atlants land) for helping me a lot with this tool
