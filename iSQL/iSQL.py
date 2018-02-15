@@ -1,3 +1,13 @@
+#!/usr/bin/python
+#org_zero: Pain :https://www.facebook.com/ThePainX
+#MrMax:https://www.facebook.com/Mr0max
+#Elsafa7-110:https://www.facebook.com/elsfa7110
+#Teto:https://www.facebook.com/XxtetogenXx
+#Twix: https://www.facebook.com/Twix17
+#Sniper-UMS(Co-Creator): https://www.facebook.com/profile.php?id=100006450001579
+#M0NST3R(Creator):https://www.facebook.com/leave0me0here.py
+#Striker:https://www.facebook.com/StrikerHacker33
+
 import os,sys,time,datetime #bult-in libs
 os.system("clear")
 try:
