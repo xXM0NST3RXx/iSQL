@@ -1,0 +1,94 @@
+MySql
+SQL
+Syntax
+syntax
+Invalid CFML construct found
+CFM compiler
+ColdFusion documentation
+Context validation error for tag cfif
+ERROR.queryString
+Error Executing Database Query
+SQLServer JDBC Driver
+coldFusion.sql.Parameter
+JDBC SQL
+JDBC error
+SequeLink JDBC Driver
+Invalid data .+ for CFSQLTYPE CF_SQL_INTEGER
+Microsoft VBScript runtime
+Microsoft VBScript compilation
+Invision Power Board Database Error
+DB2 ODBC
+DB2 error
+DB2 Driver
+unexpected end of SQL command
+invalid query
+SQL command not properly ended
+An illegal character has been found in the statement
+Active Server Pages error
+ASP.NET_SessionId
+ASP.NET is configured to show verbose error messages
+A syntax error has occurred
+Unclosed quotation mark
+Input string was not in a correct format
+<b>Warning</b>: array_merge
+Warning: array_merge
+Warning: preg_match
+<b>Warning</b>: preg_match
+<exception-type>java.lang.Throwable
+Microsoft JET Database Engine
+ADODB.Command
+ADODB.Field error
+Microsoft Access Driver
+ODBC Microsoft Access
+BOF or EOF
+Microsoft OLE DB Provider for SQL Server error
+OLE/DB provider returned message
+ODBC SQL Server
+ODBC Error
+Microsoft SQL Native Client
+<b>Warning</b>: mysql_query
+Warning: mysql_query
+<b>Warning</b>: mysql_fetch_row
+Warning: mysql_fetch_row
+<b>Warning</b>: mysql_fetch_array
+Warning: mysql_fetch_array
+<b>Warning</b>: mysql_fetch_assoc
+Warning: mysql_fetch_assoc
+<b>Warning</b>: mysql_fetch_object
+Warning: mysql_fetch_object
+<b>Warning</b>: mysql_numrows
+Warning: mysql_numrows
+<b>Warning</b>: mysql_num_rows
+Warning: mysql_num_rows
+MySQL Error
+MySQL ODBC
+MySQL Driver
+supplied argument is not a valid MySQL result resource
+error in your SQL syntax
+on MySQL result index
+JDBC MySQL
+<b>Warning</b>: mysql_result
+Warning: mysql_result
+Oracle ODBC
+Oracle Error
+Oracle Driver
+Oracle DB2
+ODBC DB2
+ODBC Oracle
+JDBC Oracle
+ORA-01756
+ORA-00936
+ORA-00921
+ORA-01400
+ORA-01858
+ORA-06502
+ORA-00921
+ORA-01427
+ORA-00942
+<b>Warning</b>: ociexecute
+Warning: ociexecute
+<b>Warning</b>: ocifetchstatement
+Warning: ocifetchstatement
+<b>Warning</b>:  ocifetchinto
+Warning:  ocifetchinto
+error ORA-
