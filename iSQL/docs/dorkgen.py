@@ -7,6 +7,8 @@ def dorker(now,amount,chooser,word):
     drknumber=1
     with open("Dorks"+str(now),"w+")as dorks:
         dorks.write("")
+    if int(amount) <= 25:
+        amount=25
     while drknumber*20 < int(amount)*2:
         try:
             url=req.urlopen("https://cxsecurity.com/dorks/"+str(drknumber)).read()
