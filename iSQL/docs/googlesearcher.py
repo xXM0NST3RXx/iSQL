@@ -10,4 +10,3 @@ def googlesrchers(filename,serchword,choice2):
 	except:
 		print("You Brobaly banned from google :/ \n why you don't use broxychains")
 		pass
-		cheaker(url,choice2)
