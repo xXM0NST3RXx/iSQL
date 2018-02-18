@@ -1,8 +1,8 @@
-Warning:
 MySql
 SQL
 Syntax
 syntax
+Warning:
 Invalid CFML construct found
 CFM compiler
 ColdFusion documentation
