@@ -77,7 +77,7 @@ print(colored('''
 			   |__|      
 ''',"cyan"))
 print("     		 "+colored("Egy","red","on_yellow")+colored("pt","white","on_yellow")+colored("ian","grey","on_yellow")+colored(" Made 3>","magenta"))
-print("\n\nCoded BY: "+colored("M0NSTƎR","yellow")+" & "+colored("Sniper-UMS\n","cyan"))
+print("\nCoded BY: "+colored("M0NSTƎR","yellow")+" & "+colored("Sniper-UMS\n","cyan"))
 print(colored(" @0RG4NIZ4TI0N-Z3R0 ","red").center(70,"#"))
 print(" Zero No One ".center(70,"#"))
 
