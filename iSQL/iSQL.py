@@ -17,7 +17,7 @@ except ImportError:
     os.system("pip3 install termcolor")
     
 if os.getuid() != 0:
-    print("\n"+'\033[1m'+colored("[Run the code as root]","red").center(85,"-")+'\n')
+    print("\n"+'\033[1m'+colored("[Run the code as root]","red")+'\n')
     os.system("clear");print("\n"+'\033[1m'+colored("[Run the code as root]","red").center(85,"-")+'\n');print("Exiting.");time.sleep(1);os.system("clear");print("\n"+'\033[1m'+colored("[Run the code as root]","red").center(85,"-")+'\n');print("Exiting..");time.sleep(1);os.system("clear");print("\n"+'\033[1m'+colored("[Run the code as root]","red").center(85,"-")+'\n');print("Exiting...");time.sleep(1)
     sys.exit()
     
