@@ -103,7 +103,7 @@ localnet 127.0.0.0/255.0.0.0
 # add proxy here ...
 # meanwile
 # defaults set to "tor"
-socks4 	127.0.0.1 9050''')
+socks4 	127.0.0.1 9050'''+"\n")
 
         
     with open(prxyfile,"r+")as proxyfile:
