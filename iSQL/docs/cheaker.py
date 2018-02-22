@@ -22,6 +22,8 @@ def cheaker(site,choice2):
 	for bad in bad_words:
 		if site.startswith(bad)==True:
 			site=""
+	if site.endswith("/")==True:
+        	site=""
 	if "." in site[-5:]:
 		site=""
 	try:
