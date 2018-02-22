@@ -3,6 +3,17 @@
 # iSQL
 Full Auto Exploit tool to SQL Injection: Admin Find -dork generation and grab from cx-Security and proxy cheaker and more :)
 
+
+To install the tool just type:
+
+    git clone https://github.com/xXM0NST3RXx/iSQL.git
+    
+ 
+To run the tool u must run it in python3 by tybing:
+
+    python3 iSQL.py
+
+
 # Important Notice
 This tool must run on (Linux Security distribution) to get full preformance
 
