@@ -23,7 +23,7 @@ def cheaker(site,choice2):
 		if site.startswith(bad)==True:
 			site=""
 	if site.endswith("/")==True:
-        	site=""
+		site=""
 	if "." in site[-5:]:
 		site=""
 	try:
