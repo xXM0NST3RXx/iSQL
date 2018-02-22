@@ -7,6 +7,10 @@ Full Auto Exploit tool to SQL Injection: Admin Find -dork generation and grab fr
 To install the tool just type:
 
     git clone https://github.com/xXM0NST3RXx/iSQL.git
+
+then you must install "pip3" by running:
+    
+    sudo apt-get install python3-pip
     
  
 To run the tool u must run it in python3 by tybing:
