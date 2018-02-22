@@ -11,7 +11,7 @@ To install the tool just type:
  
 To run the tool u must run it in python3 by tybing:
 
-    python3 iSQL.py
+    sudo python3 iSQL.py
 
 
 # Important Notice
